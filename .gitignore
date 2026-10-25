@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# 打包时生成的中间副本（zip 本身要提交，副本不要）
+cqu-a-zone-guide/
