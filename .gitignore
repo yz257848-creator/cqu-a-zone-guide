@@ -13,3 +13,6 @@ desktop.ini
 
 # 打包时生成的中间副本（zip 本身要提交，副本不要）
 cqu-a-zone-guide/
+
+# 发布时的临时说明文件
+.release-notes.md

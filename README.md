@@ -2,9 +2,15 @@
 
 > 一个 WorkBuddy Skill：把"重庆大学 A 区这四年怎么过得不狼狈"这件事，打包成一个能装进 AI 助手的能力。
 
-[![下载 Skill](https://img.shields.io/badge/⬇_下载_Skill-zip-8c2f39?style=for-the-badge)](https://github.com/yz257848-creator/cqu-a-zone-guide/raw/main/cqu-a-zone-guide.zip)
+[![下载 Skill](https://img.shields.io/badge/⬇_下载_Skill-zip-8c2f39?style=for-the-badge)](https://github.com/yz257848-creator/cqu-a-zone-guide/releases/latest/download/cqu-a-zone-guide.zip)
 [![License](https://img.shields.io/badge/license-MIT-2f6b4f?style=for-the-badge)](./LICENSE)
-[![Files](https://img.shields.io/badge/6_files-18_KB-5c6672?style=for-the-badge)](#包里有什么)
+[![Files](https://img.shields.io/badge/7_files-19_KB-5c6672?style=for-the-badge)](#包里有什么)
+
+**直链**（可复制转发）：
+
+```
+https://github.com/yz257848-creator/cqu-a-zone-guide/releases/latest/download/cqu-a-zone-guide.zip
+```
 
 ---
 
@@ -69,6 +75,8 @@ cqu-a-zone-guide/
     ├── wellness.md           # 作息模板、睡眠原理、话术库、就医升级条件
     └── openlib.md            # CQU-openlib 检索细则
 ```
+
+仓库根目录另有 `scripts/build_zip.py`（重新打包）和 `scripts/publish_release.py`（发布 release），改完内容后跑一下就能出新包。
 
 **纯 Markdown，没有脚本、没有依赖、没有隐私数据。** 任何平台都能装。
 
